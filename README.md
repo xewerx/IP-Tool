@@ -1,4 +1,3 @@
 # ConnectTest
 
-Simple script to test connection between PC and other IP device.
-It just write to LostPing.txt lost pings :)
+Tool to change IP addresses at network cards(LAN and WLAN) and testing continuity and quality of connection between two IP devices.
